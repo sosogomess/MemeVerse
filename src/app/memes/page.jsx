@@ -6,6 +6,7 @@ import HeroSection from "../components/herosection";
 import MemeCard from "../components/memeCard";
 import InteractionBar from "../components/interactionBar";
 import CategoriesSection from "../components/categoriesSection";
+import Feed from "../feed";
 
 export default function memes() {
     return (
@@ -15,6 +16,7 @@ export default function memes() {
         <div className={styles.contentArea}></div>
         <HeroSection />
         <CategoriesSection />
+        <Feed />
         <MemeCard meme={meme}/>
         <InteractionBar meme={meme} />
         <Footer />
