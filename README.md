@@ -25,7 +25,7 @@ Desenvolver uma aplicação de compartilhamento de memes utilizando Next.js 15, 
  page.jsx
 ```
 
-3. Crie a pasta "memes" e dentro dela adionei o css e o page disponibilizado pelo professor Felipe Dev
+3. Criei a pasta "memes" e dentro dela adionei o css e o page disponibilizado pelo professor Felipe Dev
 
 4. Realizei a criação da pasta "components" comecei as componentizações.
 
